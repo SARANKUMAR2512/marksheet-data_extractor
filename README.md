@@ -1,8 +1,8 @@
 # marksheet-data_extractor
 
->>>  Validating and entering the marks for a single person is really a time consuming and hectic process. 
->>>  There is also a high possibility of registering incorrect or missing data. 
->>>  Moreover, retrieving the data physically also requires lot of time and effort.
+>>>***Validating and entering the marks for a single person is really a time consuming and hectic process. 
+>>>There is also a high possibility of registering incorrect or missing data. 
+>>>Moreover, retrieving the data physically also requires lot of time and effort.***
 
 
 >>  First step is to install the respective packages of python libraries and for feature detection we are giving  the marksheet template.
